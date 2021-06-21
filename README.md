@@ -7,6 +7,6 @@ int main()
     printf("Please provide a number:\n");
     scanf("%d",&n);
     k=(log(n)/log(2));
-    printf("The number of bits reqire to represent in binaary are:%d",k+1);
+    printf("The number of bits reqire to represent in binary are:%d",k+1);
     return 0;
 }
